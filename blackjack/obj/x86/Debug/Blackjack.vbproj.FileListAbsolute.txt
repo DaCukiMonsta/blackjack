@@ -1,0 +1,18 @@
+C:\Users\13harte\AppData\Local\Temporary Projects\Blackjack\bin\Debug\Blackjack.exe
+C:\Users\13harte\AppData\Local\Temporary Projects\Blackjack\bin\Debug\Blackjack.pdb
+C:\Users\13harte\AppData\Local\Temporary Projects\Blackjack\bin\Debug\Blackjack.xml
+C:\Users\13harte\AppData\Local\Temporary Projects\Blackjack\obj\x86\Debug\Blackjack.Form1.resources
+C:\Users\13harte\AppData\Local\Temporary Projects\Blackjack\obj\x86\Debug\Blackjack.Resources.resources
+C:\Users\13harte\AppData\Local\Temporary Projects\Blackjack\obj\x86\Debug\Blackjack.vbproj.GenerateResource.Cache
+C:\Users\13harte\AppData\Local\Temporary Projects\Blackjack\obj\x86\Debug\Blackjack.exe
+C:\Users\13harte\AppData\Local\Temporary Projects\Blackjack\obj\x86\Debug\Blackjack.xml
+C:\Users\13harte\AppData\Local\Temporary Projects\Blackjack\obj\x86\Debug\Blackjack.pdb
+V:\Blackjack\Blackjack\obj\x86\Debug\Blackjack.exe
+V:\Blackjack\Blackjack\obj\x86\Debug\Blackjack.xml
+V:\Blackjack\Blackjack\obj\x86\Debug\Blackjack.pdb
+V:\Blackjack\Blackjack\bin\Debug\Blackjack.exe
+V:\Blackjack\Blackjack\bin\Debug\Blackjack.pdb
+V:\Blackjack\Blackjack\bin\Debug\Blackjack.xml
+V:\Blackjack\Blackjack\obj\x86\Debug\Blackjack.Form1.resources
+V:\Blackjack\Blackjack\obj\x86\Debug\Blackjack.Resources.resources
+V:\Blackjack\Blackjack\obj\x86\Debug\Blackjack.vbproj.GenerateResource.Cache
